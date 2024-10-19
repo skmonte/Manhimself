@@ -1,0 +1,2 @@
+# Manhimself
+Learning programming 
